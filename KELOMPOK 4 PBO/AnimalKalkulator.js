@@ -1,3 +1,4 @@
+//(OBJECT PATTERN)
 // deklarasi dan inisialisasi atribut
 var mengulang = true;
 var idHewan = [];
@@ -5,7 +6,9 @@ var hewan = {};
 var choice;
 let idx = 0;
 
+//(ENKAPSULASI)
 //function untuk menampung data hewan
+//(ABSTRACTION)
 function Hewan(paramNamehewan,paramJenishewan,paramJkelamin, paramBirth, paramId, paramBerat, paramNilai) {
   var namehewan = paramNamehewan;
   var jenishewan = paramJenishewan;
