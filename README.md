@@ -20,3 +20,8 @@
 ## LINK YOUTUBE 
 https://youtu.be/Sp0TVRLi9bc
 
+## KOTRIBUSI
+Coding : Vincent Nathaniel
+Class Diagram : Rohman Beny Riyanto
+Edit Video + Github : Aldhan Tri Maulana
+
